@@ -75,6 +75,14 @@ img {
     vertical-align: top;
 }
 
+.c-logo {
+    height: 32px;
+}
+
+.c-logo__symbol {
+    height: 100%; 
+}
+
 /*
     Elements: typography
     ---
@@ -208,6 +216,10 @@ a:focus {
     html {
         font-size: 20px;
         line-height: 1.6;
+    }
+
+    .c-logo {
+        height: 40px;
     }
 }
 
